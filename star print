@@ -37,7 +37,7 @@ void func(int n,int a,int b)
 
 int main()
 {
-    int n;//n은 입력 받는 수
+    int n;//n은 입력 받 수
     
     cin>>n;
    
